@@ -1,0 +1,35 @@
+.topDetails{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.categoryLength{
+    font-size: 25px;
+    margin-bottom: 30px;
+    font-family:'Josefin Sans', sans-serif;
+}
+thead,tbody{
+    text-align: center;
+}
+.categoryName{
+    cursor: pointer;
+    text-Decoration:none;
+    color:inherit;
+}
+.singlePostIcon{
+    color: rgb(241, 122, 67);
+    cursor: pointer;
+}
+.singleEditIcon{
+    color: rgb(241, 122, 67);
+    cursor: pointer;
+    text-Decoration:none;
+}
+.addButton{
+    border:none;
+    border-radius: 10px;
+    cursor:pointer;
+    background-color: rgb(120, 194, 243);
+    color:white;
+    padding: 8px; 
+}

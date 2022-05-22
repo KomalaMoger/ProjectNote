@@ -1,0 +1,30 @@
+ .topList{
+  display: inline-flex;
+  /* height: 60px; */
+
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  list-style: none;
+  font-family: 'Josefin Sans', sans-serif;
+  width: 100%;
+}
+
+.topListItem{
+  display: inline-block;
+  margin-right: 20px;
+  font-size: 26px;
+  font-weight: 300;
+  cursor: pointer;
+}  
+
+
+
+
+
+
+
+
+
+
+
